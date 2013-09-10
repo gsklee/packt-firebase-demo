@@ -22,23 +22,18 @@
         gender: 'm'
     });
 
+    Data.set({
+        name: 'Squidward',
+        gender: 'm'
+    });
+
     /*/
     / / The result will look like the following:
     / / 
     / / {
-    / /     "name": "Karen",
+    / /     "name": "Squidward",
     / /
-    / /     "gender": "f"
-    / /
-    / /     "-J36HiIlZjs1DZm1o95u": {
-    / /         "name": "Patrick",
-    / /         "gender": "m"
-    / /     },
-    / /
-    / /     "-J36HiIm57U0P5hqVZGW": {
-    / /         "name": "Plankton",
-    / /         "gender": "m"
-    / /     }
+    / /     "gender": "m"
     / / }
     /*/
 })();
